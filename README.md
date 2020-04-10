@@ -2,7 +2,7 @@
   The PureMic Dataset is a part of AudioSet, with only one instrument present in each selected clip.
 The instrument classes in the PureMic derive from the OpenMic2018 database, which define 20 instruments. Each clip was listened to in order to guarantee that just one instrument is present in the entire clip and that the instrument is one of the 20 instruments defined in OpenMic2018. One extra class was added: Silence. Each class has 50 clips resulting in 1050 clips. 
 
-  To download the dataset please use the this (link)[http://lsi.co.it.pt/spl/puremicdb.html].
+  To download the dataset please use the this [link](http://lsi.co.it.pt/spl/puremicdb.html).
   
 The license to use it is Creative Commons Attribution-ShareAlike 4.0 International license (CC BY-SA 4.0).
 
