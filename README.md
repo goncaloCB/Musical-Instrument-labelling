@@ -8,7 +8,7 @@ The license to use it is Creative Commons Attribution-ShareAlike 4.0 Internation
 
   If you use this data, please cite the following paper:
 G. Castel-Branco, G. Falcao, F. Perdigao, ENHANCING THE LABELLING OF AUDIO SAMPLES FOR
-AUTOMATIC INSTRUMENT CLASSIFICATION BASED ON NEURAL NETWORKS , Nov 2019.
+AUTOMATIC INSTRUMENT CLASSIFICATION BASED ON NEURAL NETWORKS , IEEE ICASSP 2020 || Barcelona, Spain || 4-8 May 2020.
 
   A thesis about instrument recognition where the PureMic database was created is this one (in Portuguese):
 "Identificação de Instrumentos Musicais em Música Polifónica", Gonçalo Castel-Branco, MSc thesis, Coimbra, Sept. 2019
